@@ -15,7 +15,7 @@ A personalized study dashboard for tracking progress across multiple learning tr
 - Notifications for upcoming deadlines and tasks
 
 ## Live Demo
-Visit the live application at: [Study Dashboard](https://your-streamlit-url)
+Visit the live application at: [Study Dashboard]((https://skspersonaljourney.streamlit.app/))
 
 ## Local Development
 1. Clone the repository
